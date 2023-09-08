@@ -1,6 +1,6 @@
 # Análise de Aplicativos da Apple Store
 
-Neste projeto, realizamos uma análise exploratória de dados sobre os aplicativos disponíveis na Apple Store. Utilizamos um conjunto de dados obtido do Kaggle, que contém informações sobre mais de 7 mil aplicativos, incluindo nome, categoria, preço, avaliação, tamanho e compras dentro do aplicativo.
+Neste projeto, foi realizada uma análise exploratória de dados sobre os aplicativos disponíveis na Apple Store, utilizando um conjunto de dados obtido do Kaggle, que contém informações sobre mais de 7 mil aplicativos, incluindo nome, categoria, preço, avaliação, tamanho e compras dentro do aplicativo.
 
 O objetivo desta análise foi responder a algumas perguntas-chave:
 
